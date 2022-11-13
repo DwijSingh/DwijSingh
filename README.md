@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Machine Learning, Product Management and Desinging.
 - 💞️ I’m looking to collaborate on Web3 products. 
 - 📫 How to reach me: 
-- LinkdIn: https://www.linkedin.com/in/dwijsingh/
+- [LinkdIn](https://www.linkedin.com/in/dwijsingh/)
 - Twitter: https://twitter.com/DwijSingh
 - Instagram: https://www.instagram.com/dwij.singh/
 - 
